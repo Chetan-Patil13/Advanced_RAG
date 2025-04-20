@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+outputs/
+chat_history.json
+*.db
+*.log
+.ipynb_checkpoints/
