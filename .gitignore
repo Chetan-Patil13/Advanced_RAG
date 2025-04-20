@@ -7,3 +7,4 @@ chat_history.json
 *.db
 *.log
 .ipynb_checkpoints/
+LICENSE
