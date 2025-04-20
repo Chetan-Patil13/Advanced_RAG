@@ -8,3 +8,4 @@ chat_history.json
 *.log
 .ipynb_checkpoints/
 LICENSE
+newenv
