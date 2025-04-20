@@ -126,6 +126,6 @@ RunnableMap({
 
 ## 📹 Demo
 
-👉 [Google Drive Link to Video Demo](<[Link](https://drive.google.com/file/d/1R77z66KJ7-7zdMEydlM97MwABTvBDIbU/view?usp=sharing)>)
+👉 [Google Drive Link to Video Demo](https://drive.google.com/file/d/1R77z66KJ7-7zdMEydlM97MwABTvBDIbU/view?usp=sharing)
 
 ---
